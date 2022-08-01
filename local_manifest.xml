@@ -5,7 +5,7 @@
           fetch="https://github.com/JaswalAshish48" />
   
    <!-- Device Trees -->
-   <project name="device_xiaomi_veux-test" path="device/xiaomi/veux" remote="me" revision="test" />
+   <project name="device_xiaomi_veux" path="device/xiaomi/veux" remote="me" revision="snow" />
 
    <!-- Vendor Trees -->
    <project name="vendor_xiaomi_veux" path="vendor/xiaomi/veux" remote="me" revision="snow" />
